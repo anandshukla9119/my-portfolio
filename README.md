@@ -21,7 +21,7 @@ The goal of this portfolio is simple:
 https://YOUR_NETLIFY_URL.netlify.app
 
 🔗 **GitHub Repository:**  
-https://github.com/anandshukla9119/YOUR_REPO_NAME
+https://github.com/anandshukla9119/my-portfolio
 
 ---
 
