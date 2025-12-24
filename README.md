@@ -18,7 +18,7 @@ The goal of this portfolio is simple:
 ## 🚀 Live Website
 
 🔗 **Live Demo:**  
-https://YOUR_NETLIFY_URL.netlify.app
+https://anandpsportfolio.netlify.app/
 
 🔗 **GitHub Repository:**  
 https://github.com/anandshukla9119/my-portfolio
